@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="850b8dda-2292-4417-840d-3863153b5e38" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/BarGraphContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/BarGraphContainer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/LineGraphContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/LineGraphContainer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/services/utilityData.client.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/utilityData.client.service.js" afterDir="false" />
@@ -72,7 +73,7 @@
       <file leaf-file-name="PieChartContainer.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/containers/PieChartContainer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="472">
+            <state relative-caret-position="169">
               <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -276,15 +277,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539922339245</updated>
-      <workItem from="1539922342053" duration="33634000" />
+      <workItem from="1539922342053" duration="33783000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33634000" />
+    <option name="totallyTimeSpent" value="33783000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -297,10 +298,10 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.22982216" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.01504788" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18815105" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18815105" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -453,7 +454,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/containers/PieChartContainer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
+        <state relative-caret-position="169">
           <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
