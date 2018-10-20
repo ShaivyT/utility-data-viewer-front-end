@@ -10,6 +10,7 @@ class LineGraphContainer extends React.Component {
             lineGraphData: {}
         }
     }
+
     async componentWillMount() {
         const service = UtilityDataService.instance;
         const bills = await service.getBillsData();
